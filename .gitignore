@@ -1,6 +1,7 @@
-  .idea/vcs.xml
-        NAAutoBoot.iml
-        chromedriver.exe
-        geckodriver.exe
-        msedgedriver.exe
-        out/
+.idea/vcs.xml
+NAAutoBoot.iml
+chromedriver.exe
+geckodriver.exe
+msedgedriver.exe
+out/
+debug.log
