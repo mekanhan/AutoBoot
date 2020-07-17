@@ -46,11 +46,14 @@ public class Test1NewHireTest {
     }
     @Test
     public void test1NewHire() {
-        driver.get("https://hr-testing.buffsci.org/");
+        driver.get("https://hr-testing.buffsci.org");
+//        username:admin@staging-buffsci.org
+//        password:admin123test
+
 //        driver.manage().window().setSize(new Dimension(1308, 773));
         driver.findElement(By.cssSelector(".btn")).click();
-        driver.findElement(By.id("password")).sendKeys("admin123test");
         driver.findElement(By.id("email")).sendKeys("admin@staging-buffsci.org");
+        driver.findElement(By.id("password")).sendKeys("admin123test");
         {
             WebElement element = driver.findElement(By.id("email"));
             Actions builder = new Actions(driver);
