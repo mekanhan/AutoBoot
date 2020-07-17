@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="apiguardian-api-1.1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/libs/apiguardian-api-1.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/libs/byte-buddy-1.8.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/libs/commons-exec-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/libs/guava-25.0-jre.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/libs/guice-4.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/libs/jcommander-1.78.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/libs/junit-jupiter-api-5.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/libs/junit-platform-commons-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/libs/okhttp-3.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/libs/okio-1.14.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/libs/opentest4j-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/libs/snakeyaml-1.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/libs/testng-7.1.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

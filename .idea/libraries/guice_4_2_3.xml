@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="guice-4.2.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/libs/guice-4.2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/libs/jcommander-1.78.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../selenium-java-3.141.59/libs/snakeyaml-1.26.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
